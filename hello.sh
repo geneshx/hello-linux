@@ -1,1 +1,1 @@
-echo Hello from geneshx
+echo "Hello from your name"
